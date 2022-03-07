@@ -1,5 +1,5 @@
 public class Exercicio2{
     public static void main(String[] args){
-        Suystem.out.println("Hello");
+        System.out.println("Hello");
     }
 }

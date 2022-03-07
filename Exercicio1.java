@@ -10,8 +10,8 @@ public class Exercicio1 {
     public static void main(String args[]){  
         int i, x = 1;  
         int numberCalculate = 6;
-        fact = factorial(number);   
-        System.out.println("Factorial of "+number+" is: "+fact);    
+        int fact = factorialWithRecursion(numberCalculate);   
+        System.out.println("Factorial of "+numberCalculate+" is: "+fact);    
         }  
     
 }
