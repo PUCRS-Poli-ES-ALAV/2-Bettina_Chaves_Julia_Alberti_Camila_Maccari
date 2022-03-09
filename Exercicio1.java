@@ -12,6 +12,6 @@ public class Exercicio1 {
         int numberCalculate = 6;
         int fact = factorialWithRecursion(numberCalculate);   
         System.out.println("Factorial of "+numberCalculate+" is: "+fact);    
-        }  
+    }  
     
 }
